@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\Hosbital_hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\Hosbital_hw.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\Hosbital_hw.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\Hosbital_hw.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\bin\Debug\net8.0\Hosbital_hw.exe
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\bin\Debug\net8.0\Hosbital_hw.deps.json
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\bin\Debug\net8.0\Hosbital_hw.runtimeconfig.json
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\bin\Debug\net8.0\Hosbital_hw.dll
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\bin\Debug\net8.0\Hosbital_hw.pdb
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\Hosbital_hw.dll
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\refint\Hosbital_hw.dll
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\Hosbital_hw.pdb
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\Hosbital_hw.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Hosbital_hw\Hosbital_hw\obj\Debug\net8.0\ref\Hosbital_hw.dll
